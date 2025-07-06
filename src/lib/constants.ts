@@ -149,7 +149,7 @@ export type ContactInfoItem = {
 
 export const CONTACT_INFO: ContactInfoItem[] = [
   { icon: Phone, label: 'Phone', value: '+91 9589482056', href: 'tel:+919630321053' },
-  { icon: Mail, label: 'Email', value: 'soneriyar@gmail.com.com', href: 'mailto:aabhishek.gautamm@gmail.com' },
+  { icon: Mail, label: 'Email', value: 'soneriyar@gmail.com', href: 'mailto:aabhishek.gautamm@gmail.com' },
   { icon: MapPin, label: 'Address', value: 'Indore, Madhya Pradesh, India' },
 ];
 
